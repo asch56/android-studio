@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Masakan Indonesia</string>
+
+    <string-array name="nama_resep">
+        <item>"Orak Arik Sayuran"</item>
+        <item>"Tumis Kacang Panjang"</item>
+        <item>"Ayam Goreng Tepung Sederhana"</item>
+        <item>"Telur Dadar Campur"</item>
+        <item>"Tumis Jamur Tiram"</item>
+        <item>"Nasi Goreng Putih"</item>
+        <item>"Tahu Telor Kecap"</item>
+        <item>"Sambel Goreng Kentang Tempe"</item>
+        <item>"Udang Goreng Tepung"</item>
+        <item>"Sayur Asem"</item>
+        <item>"Terong Balado"</item>
+        <item>"Tumis Kangkung"</item>
+        <item>"Capcay Goreng Bakso"</item>
+        <item>"Tumis Labu Siam"</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>"Dengan mencampurkan berbagai macam irisan sayuran seperti kol, kacang pajang dan wortel ke dalam 3 butir telur kocok maka akan menghasilkan hidangan yang istimewa seperti orak-arik sayuran ini, jangan lupa di goreng dalam api sedang."</item>
+        <item>"Tumisan kacang panjang di tambah dengan tempe sebagai bahan pelengkapnya sangat pas untuk anda hidangkan di meja makan keluarga sebagai pendamping lauk utama. Jangan lupa sajikan dengan nasi hangat agar semakin nikmat."</item>
+        <item>"Daging ayam goreng yang dilumuri dengan tepung ditambah dengan bumbu-bumbu pilahan, sangat cocok anda sajikan di meja makan keluarga. Si kecil dan suami tercinta pasti akan sangat menyukainya."</item>
+        <item>"3 butir telur di kocok lepas di tambah dengan irisan sayur kol, tomat, seledri jangan lupa di tambah garam, goreng di dalam wajan dengan api sedang jadilah telur dadar campur yang enak ini."</item>
+        <item>"Hanya dengan 5 ons jamur tiram di tambah dengan bumbu-bumbu pilihan lalu di tumis di dalam api sedang dengan sedikit minyak zaitun anda bisa menikmati hidangan yang satu ini."</item>
+        <item>"Resep ini sangat simple jadi sangat cocok sekali untuk di masak di pagi hari untuk menu sarapan pagi."</item>
+        <item>"Hanya dengan dua buah telur dan dua potong tahu Anda bisa menyajikan masakan yang praktis ini. Tahu telur kecap sangat cocok untuk disantap bersama keluarga."</item>
+        <item>"Hanya dengan satu bungkus tempe dan satu buah kentang Anda bisa menyajikan masakan yang sangat lezat. Sambal goreng kentang tempe sangat praktis membuatnya dan pastinya keluarga Anda akan menyukainya."</item>
+        <item>"Olahan seafood yang satu ini sangatlah gampang mengolahnya, Anda hanya perlu 200 gram udang tanpa kepala dan tepung bumbu. Udang goreng tepung sudah siap disajikan di meja makan Anda."</item>
+        <item>"Sayur asem khas Jawa Timur ini pastinya tidak asing untuk Anda, bahan-bahannya tergolong mudah dan tidak sulit didapat. Memasaknyapun cukup praktis."</item>
+        <item>"Satu buah terong ungu bisa Anda olah dengan kelezatan yang oke punya. Bumbunya hanya bawang merah, bawah putih, cabe rawit, cabe merah,tomat garam dan gula. Terong balado siap disajikan untuk orang terkasih."</item>
+        <item>"Tumis kangkung adalah masakan yang murah meriah tetapi kelezatannya tidak diragukan lagi. Hanya dengan Rp. 5000,- Tumis kangkung bisa Anda sajikan untuk keluarga."</item>
+        <item>"Ingin menikmati berbagai macam sayuran dalam satu piring? Capcay goreng bakso bisa dijadikan menu piliha Anda. Sayur-sayuran sangat baik untuk kesehan Anda dan kelezatan bakso juga bisa Anda nikmati."</item>
+        <item>"Tumis labu siam adalah masakan yang sering disajikan dirumah-rumah, Anda bisa menyantapnya dengan sepiring nasi putih hangat. Cara memasaknya sangat gampang dan bahannya juga murah dan mudah didapat."</item>
+    </string-array>
+</resources>
